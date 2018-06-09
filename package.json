@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazon2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilsonlkayla/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilsonlkayla/bamazon/issues"
+  },
+  "homepage": "https://github.com/wilsonlkayla/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "modules": "^0.4.0",
+    "node": "^10.4.0"
+  }
+}
